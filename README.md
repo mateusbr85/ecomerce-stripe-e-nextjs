@@ -1,1 +1,1 @@
-# ecomerce-stripe-e-nextjs
+# Ecomerce com Stripe e Next.js
